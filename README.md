@@ -1,5 +1,7 @@
 It's my Mobile Apps homework.
-Proof of concept for Ionic modals, popovers, React routes and hooks, and, also, Axios library alongside Koa routing and middlewares.
+A proof of concept for Ionic modals, popovers, React routes and hooks, and, also, Axios library alongside Koa routing and middlewares.
+
+I've implemented my own synchronization algorithm that compares the data version and, in case of identical versions, declares a conflict the end-user has to manually solve.
 
 TODO:
 - conflict solution page 
